@@ -38,7 +38,7 @@ The dataset includes the following tables:
 
 ``genre``: Includes music genres.
 
-``invoice``, invoice_items: Includes information about 
+``invoice``: Includes information about 
 invoices and associated items.
 
 ``media_types``: Contains media types (e.g., MPEG audio file).
